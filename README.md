@@ -18,6 +18,7 @@ Stress/Mental health tab:
   - users can choose from "nutrition", "time management", "sleeping", and "positive mental health" categories which include tips and strategies to help them improve their health and wellbeing
 
 Meditation tab: 
+  - users can select categories with different meditation or calming sounds to help them de-stress and relax
 
 Additional Resourses: 
 

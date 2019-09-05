@@ -15,6 +15,7 @@ Finanical Budget Page:
   - links to common credit card knowledge / financial planning etc 
 
 Stress/Mental health tab: 
+  - users can choose from "nutrition", "time management", "sleeping", and "positive mental health" categories which include tips and strategies to help them improve their health and wellbeing
 
 Meditation tab: 
 

@@ -12,7 +12,7 @@ Stress/Mental health tab:
 
 Meditation tab: 
 
-Additional Resourses: 
+Additional Resources: 
 
 
 Future direction for project: 

@@ -21,7 +21,7 @@ Meditation tab:
   - users can select categories with different meditation or calming sounds to help them de-stress and relax
 
 Additional Resources: 
-  - includes the national suicide hotline and links to other organizations which promotes health and wellbeing
+  - includes the national suicide hotline and links to other organizations which promote health and wellbeing
 
 
 Future direction for project

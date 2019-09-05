@@ -10,7 +10,7 @@ Timer / To-do-list:
   - timer option to allow for time-management 
   - option to use the Pomodoro techique (also an informative paragraph on the method) 
 
-Finanical Budget Page: 
+Financial Budget Page: 
   - user would be able to enter amount to be budgetted and have options to check spending etc 
   - links to common credit card knowledge / financial planning etc 
 
@@ -20,7 +20,8 @@ Stress/Mental health tab:
 Meditation tab: 
   - users can select categories with different meditation or calming sounds to help them de-stress and relax
 
-Additional Resourses: 
+Additional Resources: 
+  - includes the national suicide hotline and links to other organizations which promotes health and wellbeing
 
 
 Future direction for project

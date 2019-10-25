@@ -22,6 +22,7 @@ Meditation tab:
 
 Additional Resources: 
   - includes the national suicide hotline and links to other organizations which promote health and wellbeing
+  - contains contact box for the request of additional information 
 
 
 Future direction for project
